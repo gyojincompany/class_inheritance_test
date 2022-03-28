@@ -12,4 +12,6 @@ public class IPTV extends ColorTV{
 		super.printProperty();//부모 클래스의 메서드 호출
 	}
 	//나의 IPTV는 192.1.1.2 주소의 32인치 2048컬러
+	
+	
 }
